@@ -108,9 +108,8 @@ h2:hover {
 /* BEGIN QUESTION 2 */
 
 .thailand-red,
-.thailand-white,
-.thailand-blue {
-  height: 20%;
+.thailand-white {
+  height: 17.5%;
 }
 
 .thailand-red {
@@ -122,6 +121,7 @@ h2:hover {
 }
 
 .thailand-blue {
+  height: 30%;
   background-color: #2E2A4C;
 }
 
